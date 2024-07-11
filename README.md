@@ -1,6 +1,7 @@
 # Rem-gid
 
 # CollegeLife-Data-Challenge---Sales-Analysis
+![68747470733a2f2f696d6775722e636f6d2f774c4d635248532e6a7067](https://github.com/angelawer/reml-gid/assets/162644458/a47d5b12-1bc3-4601-b129-0d09d3e6e442)
 
 ## Introduction
 This project is a replica of the Tableau Analytics and Visualization challenge conducted in 2017. The data contained in this file includes sales and promotional information from a sampling of stores over 156 weeks, beginning January 2009 through December 2011. These are the sales metrics of products in 4 categories: mouthwash, pretzels, frozen pizza, and boxed cereal, the top 5 products from each of the top 3 brands in each category. 
